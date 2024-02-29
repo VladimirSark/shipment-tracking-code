@@ -4,7 +4,6 @@ Plugin Name: Shipment tracking tab
 Description: Add tracking code tab
 Version: 1.0.0
 Author: Vladimir
-Author URI: SlapiosNosys.lt
 */
 
 // Add custom shipment tracking field to order page
